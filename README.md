@@ -1,6 +1,6 @@
 # openclassroom2
 
-Hello i am a readme.
+Hello I am a readme.
 
 This project is a project where I do some HTML for get some fun in my soul.
 
